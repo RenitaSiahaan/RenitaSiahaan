@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renita Siahaan</h1>
+<h1 align="center">Hi, I'm Renita Siahaan<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW15Zmt6NG9pYjk2bDNjang1Y21qbnFxOGNmaWdvaGVkMGdoZGl5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L0rdnflIRAngVsDpxJ/giphy.gif" height="59" align="ceter"></h1>
 
 <p align="center">
   <em>A tech enthusiast, developer, and creative learner who loves exploring code and design.</em>
